@@ -1474,7 +1474,7 @@ media_player:
               duration: 1.0s
     files:
       - id: center_button_press_sound
-        file: https://github.com/hristo-atanasov/home-assistant-voice-pe/raw/dev/sounds/niki_zdrasti_edited.mp3
+        file: https://github.com/hristo-atanasov/home-assistant-voice-pe/raw/dev/sounds/niki_zdrasti_edited.flac
       - id: center_button_double_press_sound
         file: https://github.com/esphome/home-assistant-voice-pe/raw/dev/sounds/center_button_double_press.flac
       - id: center_button_triple_press_sound
@@ -1498,7 +1498,7 @@ media_player:
       - id: timer_finished_sound
         file: https://github.com/esphome/home-assistant-voice-pe/raw/dev/sounds/timer_finished.flac
       - id: wake_word_triggered_sound
-        file: https://github.com/hristo-atanasov/home-assistant-voice-pe/raw/dev/sounds/niki_zdrasti_edited.mp3
+        file: https://github.com/hristo-atanasov/home-assistant-voice-pe/raw/dev/sounds/niki_zdrasti_edited.flac
       - id: easter_egg_tick_sound
         file: https://github.com/esphome/home-assistant-voice-pe/raw/dev/sounds/easter_egg_tick.mp3
       - id: easter_egg_tada_sound
